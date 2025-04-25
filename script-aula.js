@@ -1,3 +1,4 @@
+
 var PossuiGraduacao = true;
 
 if (PossuiGraduacao) {
@@ -24,3 +25,10 @@ if (nome) {
 } else {
   console.log("Nome não exisate");
 }
+=======
+var nome = "Ayres";
+
+var nomeMinusculo = nome.toLowerCase();
+
+var btn = document.querySelector(".btn");
+>>>>>>> 488cc4e (tudo é objeto)
